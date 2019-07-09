@@ -1,1 +1,25 @@
-
+Programação Orientada a Objetos em Java.
+  
+                       História
+   O Java é uma linguagem de programação orientada a objetos que 
+  surgiu em 1995 lançada pela Sun Microsystems. Possui sua sintaxe 
+  baseada na linguagem C. 
+   A linguagem foi criada por James Gosling e sua equipe que ficou 
+  conhecida como "Green Team". No inicio do seu desenvolvimento se 
+  chamava Oak, mas foi rebatizada em homenagem ao tipo de café que 
+  a equipe consumia, tendo como simbolo inclusive uma xicara de café.
+   O Java depende apenas de uma maquina virtual para rodar suas instru-
+  ções, portanto o mesmo código pode funcionar em plataformas diferen-
+  tes, bastando instalar apenas o Java Runtime Environment. Isto atraiu
+  muitos programadores para trabalhar com a linguagem, tornando-a um 
+  grande sucesso.
+   Atualmente o Java é de propriedade da Oracle.
+   
+        |||
+        |||
+        |||   ||||||||    |||       |||   ||||||||
+        |||          |||  |||       |||          |||
+        |||     ||||||||   |||     |||      ||||||||  
+        |||  ||      |||    |||   |||    ||      |||
+       |||    |||||| |||       |||        |||||| |||
+   |||
